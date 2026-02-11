@@ -1,4 +1,4 @@
-# Hi 👋 I'm Aakash Tiwari
+# Hey I'm Aakash Tiwari
 
 🚀 Full Stack Software Developer | AWS Cloud | Node.js | PostgreSQL  
 🎓 MS Cyber Security – Rowan University  
