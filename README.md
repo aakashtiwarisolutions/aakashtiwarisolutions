@@ -63,7 +63,7 @@ Expense tracking application with analytics and financial insights.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashtiwarisolutions&show_icons=true&theme=radical)
+![GitHub stats](https://github.com/aakashtiwarisolutions)
 
 ---
 
