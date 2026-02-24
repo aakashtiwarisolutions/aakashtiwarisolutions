@@ -63,15 +63,15 @@ Expense tracking application with analytics and financial insights.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github.com/aakashtiwarisolutions)
+[GitHub stats](https://github.com/aakashtiwarisolutions)
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: ![tiwariaakash1001@gmail.com]tiwariaakash025@gmail.com  
+📧 Email: [tiwariaakash1001@gmail.com](mailto:tiwariaakash1001@gmail.com)  
 
-💼 LinkedIn: ![LinkeIn](www.linkedin.com/in/aakash-tiwari-46b6b916b)
+💼 LinkedIn: [Aakash Tiwari](https://linkedin.com/in/aakash-tiwari-xxxx)
 
 📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
 
