@@ -69,9 +69,9 @@ Expense tracking application with analytics and financial insights.
 
 ## 🌐 Connect With Me
 
-📧 Email: taakash025@gmail.com  
+📧 Email: ![tiwariaakash1001@gmail.com]tiwariaakash025@gmail.com  
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+💼 LinkedIn: ![LinkeIn](www.linkedin.com/in/aakash-tiwari-46b6b916b)
 
 📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
 
