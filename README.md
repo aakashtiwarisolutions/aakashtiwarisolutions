@@ -71,11 +71,9 @@ Expense tracking application with analytics and financial insights.
 
 📧 Email: [tiwariaakash1001@gmail.com](mailto:tiwariaakash1001@gmail.com)  
 
-💼 LinkedIn: [Aakash Tiwari](https://linkedin.com/in/aakash-tiwari-xxxx)
+💼 LinkedIn: [Aakash Tiwari](www.linkedin.com/in/aakash-tiwari-46b6b916b)
 
-📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
-
-🐙 GitHub: https://github.com/aakashtiwarisolutions
+🐙 GitHub: [Aakash Tiwari Solutions](https://github.com/aakashtiwarisolutions)
 
 ---
 
