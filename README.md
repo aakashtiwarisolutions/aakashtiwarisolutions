@@ -3,7 +3,7 @@
 • Full Stack Developer focused on Backend and Cloud Engineering\
 • AWS Certified\
 • 3 Years Industry Experience\
-• MS Cyber Security -- Rowan University (GPA: 3.6)\
+• MS Cyber Security: Rowan University (GPA: 3.6)\
 • 3 Years as Software Development Analyst at Accenture
 
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ Right now, I'm focused on:
 
 ## Professional Experience
 
-Accenture (Aug 2021 -- Sep 2024)\
+Accenture (Aug 2021 - Sep 2024)\
 Software Development Analyst
 
 During my 3 years at Accenture, I:
@@ -71,7 +71,7 @@ Frontend Experience\
 
 ## What I'm Building
 
-PingMe -- QR Digital Identity Platform
+PingMe: QR Digital Identity Platform
 
 A full-stack application that allows users to share their digital
 identity through a single QR code.
@@ -89,11 +89,11 @@ Tech: Node.js • MongoDB • PostgreSQL • AWS
 
 ## Certifications
 
-• AWS Certified Solutions Architect -- Associate (SAA-C03)\
+• AWS Certified Solutions Architect - Associate (SAA-C03)\
 • Microsoft Azure Fundamentals (AZ-900)\
-• Introduction to Cyber Security -- NPTEL\
-• Deep Learning and IoT -- NPTEL\
-• Analytics for Business Intelligence -- Amity Global Institute
+• Introduction to Cyber Security - NPTEL\
+• Deep Learning and IoT - NPTEL\
+• Analytics for Business Intelligence - Amity Global Institute
 Singapore
 
 ------------------------------------------------------------------------
@@ -117,7 +117,7 @@ LinkedIn\
 www.linkedin.com/in/aakash-tiwari-46b6b916b
 
 GitHub\
-github.com/aakashtiwarisolutions
+www.github.com/aakashtiwarisolutions
 
 ------------------------------------------------------------------------
 
