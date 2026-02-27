@@ -1,83 +1,127 @@
-# Hey I'm Aakash Tiwari
+# Hey, I'm Aakash Tiwari
 
-🚀 Full Stack Software Developer | AWS Cloud | Node.js | PostgreSQL  
-🎓 MS Cyber Security – Rowan University  
-💼 Former Software Development Analyst @ Accenture
+• Full Stack Developer focused on Backend and Cloud Engineering\
+• AWS Certified\
+• 3 Years Industry Experience\
+• MS Cyber Security -- Rowan University (GPA: 3.6)\
+• 3 Years as Software Development Analyst at Accenture
 
----
+------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+## About Me
 
-Experienced Full Stack Developer with industry experience building scalable web applications and cloud based systems.
+I'm a backend-focused full stack developer with 3 years of professional
+experience at Accenture, where I worked on building scalable APIs,
+cloud-based systems, and data pipelines.
 
-I specialize in:
+I enjoy designing clean backend systems, working with databases, and
+building applications that are secure, scalable, and practical.
 
-✔ Backend architecture with Node.js  
-✔ ETL pipelines using PostgreSQL  
-✔ REST API design and microservices  
-✔ AWS cloud deployment and infrastructure  
-✔ Agile development and DevOps practices  
+Right now, I'm focused on:
 
-Currently building:
+• Building production-ready backend systems\
+• Cloud integrations with AWS\
+• Database architecture and data workflows\
+• Writing clean, maintainable REST APIs
 
-🔥 **PingMe** – QR-based Digital Identity Platform
+------------------------------------------------------------------------
 
----
+## Professional Experience
 
-## 🧠 Tech Stack
+Accenture (Aug 2021 -- Sep 2024)\
+Software Development Analyst
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- ETL Development
+During my 3 years at Accenture, I:
 
-### Frontend
-- Angular
-- Flutter
+• Designed and deployed RESTful APIs serving 10K+ users\
+• Built ETL pipelines that improved data processing efficiency by 30%\
+• Integrated frontend applications with cloud-hosted backend systems\
+• Worked in Agile teams using Git, CI/CD, and Azure DevOps\
+• Contributed to scalable and secure enterprise applications
 
-### Database
-- PostgreSQL
+------------------------------------------------------------------------
 
-### Cloud & DevOps
-- AWS
-- CI/CD
-- Agile Scrum
+## Tech Stack
 
----
+Backend\
+• Node.js\
+• Express.js\
+• REST APIs\
+• Microservices architecture\
+• JWT Authentication
 
-## 🚀 Featured Projects
+Databases\
+• PostgreSQL\
+• MongoDB\
+• SQL\
+• Redis (basic usage)
 
-### 🔥 PingMe QR Digital Identity Platform
-Full-stack cloud application allowing users to share digital identity through a single QR code.
+Cloud & DevOps\
+• AWS (S3, Lambda, Step Functions)\
+• Azure DevOps\
+• CI/CD\
+• Git\
+• Agile/Scrum
 
-Tech:
-Node.js • PostgreSQL • AWS • Flutter
+Frontend Experience\
+• Angular\
+• Flutter
 
----
+------------------------------------------------------------------------
 
-### 💰 Financial Tracker Web App
-Expense tracking application with analytics and financial insights.
+## What I'm Building
 
----
+PingMe -- QR Digital Identity Platform
 
-## 📊 GitHub Stats
+A full-stack application that allows users to share their digital
+identity through a single QR code.
 
-[GitHub stats](https://github.com/aakashtiwarisolutions)
+Current backend focus includes:
 
----
+• MongoDB integration\
+• REST API development\
+• Data export pipeline to AWS S3\
+• Cloud-ready architecture
 
-## 🌐 Connect With Me
+Tech: Node.js • MongoDB • PostgreSQL • AWS
 
-📧 Email: [tiwariaakash1001@gmail.com](mailto:tiwariaakash1001@gmail.com)  
+------------------------------------------------------------------------
 
-💼 LinkedIn: [Aakash Tiwari](www.linkedin.com/in/aakash-tiwari-46b6b916b)
+## Certifications
 
-🐙 GitHub: [Aakash Tiwari Solutions](https://github.com/aakashtiwarisolutions)
+• AWS Certified Solutions Architect -- Associate (SAA-C03)\
+• Microsoft Azure Fundamentals (AZ-900)\
+• Introduction to Cyber Security -- NPTEL\
+• Deep Learning and IoT -- NPTEL\
+• Analytics for Business Intelligence -- Amity Global Institute
+Singapore
 
----
+------------------------------------------------------------------------
 
-## ⚡ Fun Fact
+## What I Care About
 
-I enjoy building scalable backend systems and turning ideas into real world applications 🚀
+• Clean backend architecture\
+• Secure API design\
+• Scalable systems\
+• Cloud-first solutions\
+• Writing maintainable code
 
+------------------------------------------------------------------------
+
+## Connect With Me
+
+Email\
+tiwariaakash1001@gmail.com
+
+LinkedIn\
+www.linkedin.com/in/aakash-tiwari-46b6b916b
+
+GitHub\
+github.com/aakashtiwarisolutions
+
+------------------------------------------------------------------------
+
+## A Little About Me
+
+I enjoy improving systems step by step and constantly learning new
+technologies that help me build better and more efficient software.
