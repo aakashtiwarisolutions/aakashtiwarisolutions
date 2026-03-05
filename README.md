@@ -1,8 +1,7 @@
 # Hey, I'm Aakash Tiwari
 
 • Full Stack Developer focused on Backend and Cloud Engineering\
-• AWS Certified Solutions Architect – Associate [AWS Certified](https://www.credly.com/badges/9e798917-5419-4598-af4a-43f1e571a3ea/public_url)
-• 3 Years Industry Experience\
+• AWS Certified Solutions Architect – Associate [AWS Certified](https://www.credly.com/badges/9e798917-5419-4598-af4a-43f1e571a3ea/public_url)• 3 Years Industry Experience\
 • MS Cyber Security: Rowan University (GPA: 3.6)\
 • 3 Years as Software Development Analyst at Accenture
 
