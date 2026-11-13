@@ -1,126 +1,49 @@
-# Hey, I'm Aakash Tiwari
+# Aakash Tiwari
 
-• Full Stack Developer focused on Backend and Cloud Engineering\
-• AWS Certified Solutions Architect – Associate [AWS Certified](https://www.credly.com/badges/9e798917-5419-4598-af4a-43f1e571a3ea/public_url)\
-• 3 Years industry experience as Software Development Analyst at Accenture\
-• MS Cyber Security: Rowan University (GPA: 3.6)
+M.S. Cybersecurity, Rowan University. Applying to PhD programs in Computer Science (AI/ML) for Fall 2027.
 
-------------------------------------------------------------------------
+I work on **trustworthy and secure machine learning**: how ML systems can be attacked, how they leak private data, and how to make them hold up against real attackers. I also study how people use technology, and how machine learning can help them use it more intentionally. Before graduate school I spent three years at Accenture building backend and cloud systems.
 
-## About Me
+## Research
 
-I'm a backend-focused full stack developer with 3 years of professional
-experience at Accenture, where I worked on building scalable APIs,
-cloud-based systems, and data pipelines.
+**Name Games: Adversarial Domain Renaming Against Machine Learning Phishing Detectors** (2026)
+Simple renaming edits, like changing `.top` to `.org`, let attackers evade a phishing detector for 83.9% of the phishing links it caught. Adversarial training nearly triples recall under attack.
+[Paper](https://github.com/aakashtiwarisolutions/name-games/blob/main/paper/Tiwari_Name_Games_2026.pdf) · [Code](https://github.com/aakashtiwarisolutions/name-games) · [DOI](https://doi.org/10.5281/zenodo.24187103)
 
-I enjoy designing clean backend systems, working with databases, and
-building applications that are secure, scalable, and practical.
+**Catching the Habit in the Act: A Pre-Registered N-of-1 Trial of Machine-Learning-Timed Nudges Against Mindless Scrolling** (2026, data collection in progress)
+A Chrome extension learns what my mindless scrolling looks like from in-the-moment check-ins and shows a gentle nudge, in a randomized 21-day experiment.
+[Protocol](https://github.com/aakashtiwarisolutions/scrollNudge/blob/main/paper/Tiwari_ScrollNudge_Protocol_2026.pdf) · [Pre-registration](https://osf.io/hv8cg) · [Code](https://github.com/aakashtiwarisolutions/scrollNudge) · [DOI](https://doi.org/10.5281/zenodo.24187063)
 
-Right now, I'm focused on:
+## Projects
 
-• Building production-ready backend systems\
-• Cloud integrations with AWS\
-• Database architecture and data workflows\
-• Writing clean, maintainable REST APIs
+| Project | What it does |
+|---|---|
+| [QRShield](https://github.com/aakashtiwarisolutions/QRShield) | Real-time malicious QR code detection with a webcam and phone app. Found and removed a shortcut in a popular phishing dataset that made a model look 99.8% accurate. |
+| [Memorization and Privacy in ML](https://github.com/aakashtiwarisolutions/ml-memorization-privacy) | Membership inference attacks and defenses: when can someone tell that a person's record was used to train a model? |
+| [Dataset Ownership Auditing](https://github.com/aakashtiwarisolutions/dataset-ownership-auditing) | Comparing statistical audits, canaries and watermarks for checking whether a model was trained on a protected dataset. |
+| [PingMe](https://github.com/aakashtiwarisolutions/PingMe1590GitRepo) | Full-stack QR-based digital identity platform (Node.js, Flutter, PostgreSQL, AWS). |
 
-------------------------------------------------------------------------
+## Experience
 
-## Professional Experience
+**Software Development Analyst, Accenture** (Aug 2021 to Sep 2024)
+- Designed and deployed REST APIs in Python and Node.js serving 10K+ users
+- Built ETL pipelines in Go that improved data processing efficiency by 30%
+- Integrated an Angular front end with a cloud-hosted back end using Azure DevOps and Git
 
-Accenture (Aug 2021 - Sep 2024)\
-Software Development Analyst
+## Skills
 
-During my 3 years at Accenture, I:
-
-• Designed and deployed RESTful APIs serving 10K+ users\
-• Built ETL pipelines that improved data processing efficiency by 30%\
-• Integrated frontend applications with cloud-hosted backend systems\
-• Worked in Agile teams using Git, CI/CD, and Azure DevOps\
-• Contributed to scalable and secure enterprise applications
-
-------------------------------------------------------------------------
-
-## Tech Stack
-
-Backend\
-• Node.js\
-• Express.js\
-• REST APIs\
-• Microservices architecture\
-• JWT Authentication
-
-Databases\
-• PostgreSQL\
-• MongoDB\
-• SQL\
-• Redis (basic usage)
-
-Cloud & DevOps\
-• AWS (S3, Lambda, Step Functions)\
-• Azure DevOps\
-• CI/CD\
-• Git\
-• Agile/Scrum
-
-Frontend Experience\
-• Angular\
-• Flutter
-
-------------------------------------------------------------------------
-
-## What I'm Building
-
-PingMe: QR Digital Identity Platform
-
-A full-stack application that allows users to share their digital
-identity through a single QR code.
-
-Current backend focus includes:
-
-• MongoDB integration\
-• REST API development\
-• Data export pipeline to AWS S3\
-• Cloud-ready architecture
-
-Tech: Node.js • MongoDB • PostgreSQL • AWS
-
-------------------------------------------------------------------------
+**Machine learning:** Python, scikit-learn, XGBoost, pandas, NumPy, OpenCV, Jupyter
+**Security ML:** adversarial attacks and training, membership inference, phishing detection
+**Software:** Node.js, Go, Java, Angular, Flutter, REST APIs, LaTeX
+**Data and cloud:** PostgreSQL, MongoDB, Redis, AWS (S3, Lambda, Step Functions), Azure DevOps, CI/CD
 
 ## Certifications
 
-• AWS Certified Solutions Architect - Associate (SAA-C03)\
-• Microsoft Azure Fundamentals (AZ-900)\
-• Introduction to Cyber Security - NPTEL\
-• Deep Learning and IoT - NPTEL\
-• Analytics for Business Intelligence - Amity Global Institute
-Singapore
+- AWS Certified Machine Learning Engineer, Associate (MLA-C01)
+- AWS Certified Solutions Architect, Associate (SAA-C03)
+- Microsoft Azure Fundamentals (AZ-900)
+- NPTEL: Introduction to Cyber Security; Deep Learning and IoT
 
-------------------------------------------------------------------------
+## Contact
 
-## What I Care About
-
-• Clean backend architecture\
-• Secure API design\
-• Scalable systems\
-• Cloud-first solutions\
-• Writing maintainable code
-
-------------------------------------------------------------------------
-
-## Connect With Me
-
-Email\
-tiwariaakash1001@gmail.com
-
-LinkedIn\
-www.linkedin.com/in/aakash-tiwari-46b6b916b
-
-GitHub\
-www.github.com/aakashtiwarisolutions
-
-------------------------------------------------------------------------
-
-## A Little About Me
-
-I enjoy improving systems step by step and constantly learning new
-technologies that help me build better and more efficient software.
+tiwariaakash1001@gmail.com · [LinkedIn](https://www.linkedin.com/in/aakash-tiwari-46b6b916b)
