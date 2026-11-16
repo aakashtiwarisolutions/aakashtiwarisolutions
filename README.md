@@ -16,7 +16,7 @@ A Chrome extension learns what my mindless scrolling looks like from in-the-mome
 
 **GrindSense: Private, On-Device Detection of Sleep Bruxism from Smartphone Audio** (2026, data collection in progress)
 A compact CNN that listens for night-time teeth grinding on an iPhone and runs fully offline, so no bedroom audio ever leaves the phone. Includes an event detector and labeling tool for overnight recordings.
-[Research Plan](https://github.com/aakashtiwarisolutions/GrindSense/blob/main/GrindSense_Research_Plan.pdf) · [Code](https://github.com/aakashtiwarisolutions/GrindSense)
+[Research Plan](https://github.com/aakashtiwarisolutions/GrindSense/blob/main/GrindSense_Research_Plan.pdf) · [Code](https://github.com/aakashtiwarisolutions/GrindSense) · [DOI](https://doi.org/10.5281/zenodo.24288332)
 
 ## Projects
 
