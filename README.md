@@ -53,4 +53,4 @@ Designed and deployed REST APIs in Python and Node.js serving 10K+ users, built 
 
 ## Contact
 
-tiwariaakash1001@gmail.com · [LinkedIn](https://www.linkedin.com/in/aakash-tiwari-46b6b916b/)
+tiwari56@rowan.edu · tiwariaakash1001@gmail.com · [LinkedIn](https://www.linkedin.com/in/aakash-tiwari-46b6b916b/)
