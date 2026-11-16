@@ -29,11 +29,12 @@ A compact CNN that listens for night-time teeth grinding on an iPhone and runs f
 
 ## Experience
 
-**Software Development Analyst, Accenture** (Aug 2021 to Sep 2024)
+**Accenture** (Aug 2021 to Sep 2024)
+- Application Development Analyst (Sep 2022 to Sep 2024), promoted from Associate
+- Application Development Associate (Aug 2021 to Aug 2022)
+- Pinnacle Award for Best Teamwork (Jan 2023)
 
-- Designed and deployed REST APIs in Python and Node.js serving 10K+ users
-- Built ETL pipelines in Go that improved data processing efficiency by 30%
-- Integrated an Angular front end with a cloud-hosted back end using Azure DevOps and Git
+Designed and deployed REST APIs in Python and Node.js serving 10K+ users, built ETL pipelines in Go that improved data processing efficiency by 30%, and integrated an Angular front end with a cloud-hosted back end using Azure DevOps and Git.
 
 ## Skills
 
