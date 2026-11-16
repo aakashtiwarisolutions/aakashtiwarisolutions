@@ -24,7 +24,7 @@ A compact CNN that listens for night-time teeth grinding on an iPhone and runs f
 |---|---|
 | [QRShield](https://github.com/aakashtiwarisolutions/QRShield) | Real-time malicious QR code detection with a webcam and phone app. Found and removed a shortcut in a popular phishing dataset that made a model look 99.8% accurate. |
 | [Memorization and Privacy in ML](https://github.com/aakashtiwarisolutions/ml-memorization-privacy) | Membership inference attacks and defenses: when can someone tell that a person's record was used to train a model? |
-| [Dataset Ownership Auditing](https://github.com/aakashtiwarisolutions/dataset-ownership-auditing) | Comparing statistical audits, canaries and watermarks for checking whether a model was trained on a protected dataset. |
+| [Dataset Ownership Auditing](https://github.com/aakashtiwarisolutions/dataset-ownership-auditing) · [DOI](https://doi.org/10.5281/zenodo.24288936) | Comparing statistical audits, canaries and watermarks for checking whether a model was trained on a protected dataset. |
 | [PingMe](https://github.com/aakashtiwarisolutions/PingMe1590GitRepo) | Full-stack QR-based digital identity platform (Node.js, Flutter, PostgreSQL, AWS). |
 
 ## Experience
